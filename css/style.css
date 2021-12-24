@@ -1,0 +1,21 @@
+body {
+  height: 735px;
+  background: linear-gradient(#c6e4ee 0%, #c6e4ee 40%, #fed1ae 60%, #faa0b9 70%, #cb7dcb 80%, #757ecb 100%);
+}
+
+img {
+  position: absolute;
+  top: 0;
+}
+
+.airplane {
+  /* left: 400px; */
+  width: 200px;
+}
+
+.man {
+  top: 125px;
+  width: 100px;
+  /* left: 450px; */
+}
+
